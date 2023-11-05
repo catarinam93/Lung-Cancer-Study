@@ -8,18 +8,18 @@ collected by the LIDC/IDRI initiative, originally stored in XML
 
 ## Roadmap
 - Preprocess LIDC dataset
-    - PreProcessamento
+    - Pre_Processing
         - pre-processamento.ipynb
-    - PreProcessamento2
+    - Pre_Processing2
         - verifica.ipynb
         - pre_processing2.ipynb
-- Feature extraction
-  - extracao_features
+- Feature_Extraction
+  - Model_Training_Stats
       - Extração_features_radiomics.ipynb
       - Extração_features_xml.ipynb
       - Features_2d_+_diagnosis.ipynb
 - Feature selection
-  - FeatureSelection
+  - Feature_Selection
       - feature_selection.ipynb
 - Training and statistics
   - Treino_e_estatísticas
