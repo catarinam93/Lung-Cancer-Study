@@ -8,9 +8,19 @@ collected by the LIDC/IDRI initiative, originally stored in XML
 
 ## Roadmap
 - Preprocess LIDC dataset
+    - PreProcessamento
+        - pre-processamento.ipynb
+    - PreProcessamento2
+        - verifica.ipynb
+        - pre_processing2.ipynb
 - Feature extraction
+  - Extração_features_radiomics.ipynb
+  - Extração_features_xml.ipynb
+  - Features_2d_+_diagnosis.ipynb
 - Feature selection
+  - feature_selection.ipynb
 - Training and statistics
+  - trainingmodels.ipynb
 
 ## Libraries
 Libraries that need download - pandas, matplotlib.pyplot, seaborn, numpy, scikit-learn (sklearn), pylidc, radiomics, SimpleITK, scikit-image (skimage), scipy, pydicom
