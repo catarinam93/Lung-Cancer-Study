@@ -29,8 +29,8 @@ collected by the LIDC/IDRI initiative, originally stored in XML
 Libraries that need download - pandas, matplotlib.pyplot, seaborn, numpy, scikit-learn (sklearn), pylidc, radiomics, SimpleITK, scikit-image (skimage), scipy, pydicom
 
 ## Video Explanation links
-https://clipchamp.com/watch/FouSOJ7BD64
-https://drive.google.com/file/d/1FLjaHp0-G-xCVoz6_IFhERbwR5fplT6E/view?usp=drive_link
+- https://clipchamp.com/watch/FouSOJ7BD64
+- https://drive.google.com/file/d/1FLjaHp0-G-xCVoz6_IFhERbwR5fplT6E/view?usp=drive_link
 
 ## References
 - [AFMH+22] Jose Arimateia Batista Araujo-Filho, Maria Mayoral, Natally Horvat, Fernando Santini,
