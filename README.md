@@ -23,7 +23,7 @@ collected by the LIDC/IDRI initiative, originally stored in XML
       - feature_selection.ipynb
 - Training and statistics
   - Treino_e_estatísticas
-      - trainingmodels.ipynb
+      - trainingmodelslast.ipynb
 
 ## Libraries
 Libraries that need download - pandas, matplotlib.pyplot, seaborn, numpy, scikit-learn (sklearn), pylidc, radiomics, SimpleITK, scikit-image (skimage), scipy, pydicom
