@@ -14,13 +14,16 @@ collected by the LIDC/IDRI initiative, originally stored in XML
         - verifica.ipynb
         - pre_processing2.ipynb
 - Feature extraction
-  - Extração_features_radiomics.ipynb
-  - Extração_features_xml.ipynb
-  - Features_2d_+_diagnosis.ipynb
+  - extracao_features
+      - Extração_features_radiomics.ipynb
+      - Extração_features_xml.ipynb
+      - Features_2d_+_diagnosis.ipynb
 - Feature selection
-  - feature_selection.ipynb
+  - FeatureSelection
+      - feature_selection.ipynb
 - Training and statistics
-  - trainingmodels.ipynb
+  - Treino_e_estatísticas
+      - trainingmodels.ipynb
 
 ## Libraries
 Libraries that need download - pandas, matplotlib.pyplot, seaborn, numpy, scikit-learn (sklearn), pylidc, radiomics, SimpleITK, scikit-image (skimage), scipy, pydicom
