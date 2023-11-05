@@ -7,7 +7,7 @@ process by four experienced radiologists. The Dataset can be downloaded from thi
 collected by the LIDC/IDRI initiative, originally stored in XML
 
 ## Roadmap
-1 - Preprocess LIDC dataset
-2 - Feature extraction
-3 - Feature selection
-4 - Training and statistics
+- Preprocess LIDC dataset
+- Feature extraction
+- Feature selection
+- Training and statistics
